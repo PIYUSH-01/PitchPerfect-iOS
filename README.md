@@ -6,15 +6,19 @@
   - UIKit
   - AVFoundation
 
-- First view controller:
+- Apps' insights:
+  
+  - Workflow: 
 
-![Screenshot 2020-05-18 at 2 01 34 AM](https://user-images.githubusercontent.com/52041719/82159451-bdd67700-98ab-11ea-805e-748dcfceec69.png)
+  ![Pitch](https://user-images.githubusercontent.com/52041719/82159501-2291d180-98ac-11ea-9fc1-5b7058f4a60d.gif)
+  
+  - First view controller:
 
-- Second view controller:
+  ![Screenshot 2020-05-18 at 2 01 34 AM](https://user-images.githubusercontent.com/52041719/82159451-bdd67700-98ab-11ea-805e-748dcfceec69.png)
 
-![Screenshot 2020-05-18 at 2 01 43 AM](https://user-images.githubusercontent.com/52041719/82159458-cfb81a00-98ab-11ea-89e3-7257337c8a2e.png)
+  - Second view controller:
 
-- Workflow: 
+  ![Screenshot 2020-05-18 at 2 01 43 AM](https://user-images.githubusercontent.com/52041719/82159458-cfb81a00-98ab-11ea-89e3-7257337c8a2e.png)
 
-![Pitch](https://user-images.githubusercontent.com/52041719/82159501-2291d180-98ac-11ea-9fc1-5b7058f4a60d.gif)
+
 
