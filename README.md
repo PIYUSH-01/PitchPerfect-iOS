@@ -11,6 +11,7 @@
   - And also we are using the AVFoundation framework to basically work with the sounds like:
     - Recording the sounds
     - Passing sound from one view controller to other etc.
+  - In this application we have also used AUTOLAYOUT CONSTRAINTS in order to ensure that our app works fine on all screen sizes.
 
 - Apps' insights:
   
