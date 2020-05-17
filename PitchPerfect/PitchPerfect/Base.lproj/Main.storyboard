@@ -140,7 +140,7 @@
                                 </subviews>
                             </stackView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="xqT-1A-J6d" userLabel="Stop Button">
-                                <rect key="frame" x="175" y="870" width="64" height="310"/>
+                                <rect key="frame" x="175" y="793" width="64" height="64"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="64" id="oVB-5y-sJG"/>
                                     <constraint firstAttribute="width" constant="64" id="xzX-5G-6Gc"/>
@@ -153,10 +153,10 @@
                         </subviews>
                         <color key="backgroundColor" cocoaTouchSystemColor="viewFlipsideBackgroundColor"/>
                         <constraints>
-                            <constraint firstItem="oc7-0d-WcF" firstAttribute="bottom" secondItem="xqT-1A-J6d" secondAttribute="bottom" id="09D-4P-SwG"/>
-                            <constraint firstItem="xqT-1A-J6d" firstAttribute="top" secondItem="GoN-I8-JQ3" secondAttribute="bottom" constant="8" id="1az-7l-ebu"/>
+                            <constraint firstItem="oc7-0d-WcF" firstAttribute="bottom" secondItem="xqT-1A-J6d" secondAttribute="bottom" constant="5" id="09D-4P-SwG"/>
                             <constraint firstItem="xqT-1A-J6d" firstAttribute="centerX" secondItem="oc7-0d-WcF" secondAttribute="centerX" id="Ic8-Vb-eVN"/>
                             <constraint firstItem="GoN-I8-JQ3" firstAttribute="top" secondItem="oc7-0d-WcF" secondAttribute="top" id="MRs-7g-tl1"/>
+                            <constraint firstAttribute="bottom" secondItem="GoN-I8-JQ3" secondAttribute="bottom" constant="34" id="PNP-ML-vaz"/>
                             <constraint firstItem="GoN-I8-JQ3" firstAttribute="leading" secondItem="oc7-0d-WcF" secondAttribute="leading" id="eks-Pf-eln"/>
                             <constraint firstItem="oc7-0d-WcF" firstAttribute="trailing" secondItem="GoN-I8-JQ3" secondAttribute="trailing" id="gFg-uj-T5P"/>
                         </constraints>

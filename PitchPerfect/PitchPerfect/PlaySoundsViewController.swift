@@ -51,10 +51,10 @@ class PlaySoundsViewController: UIViewController {
         }
 
         configureUI(.playing)
-//        print("Play sound button pressed.")
+//        print("Play sound button pressed.") //This was for debugging.
     }
 
-//    This IBAction will be called for he stop button on the second VC.
+//    This IBAction will be called for the stop button on the second VC.
     @IBAction func stopButtonPressed(_ sender: AnyObject){
         stopAudio()
 //        print("Stop audio button pressed.")
@@ -70,8 +70,6 @@ class PlaySoundsViewController: UIViewController {
         super.viewWillAppear(animated)
         configureUI(.notPlaying)
     }
-    
-//    func enablingUI(_ is: Bool)
     
 
 }
