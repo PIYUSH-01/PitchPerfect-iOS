@@ -6,6 +6,12 @@
   - UIKit
   - AVFoundation
 
+- Detailed description: 
+  - In this app we have added various functionalities like we are moving between the view controllers with the help of NAVIGATION CONTROLLER. 
+  - And also we are using the AVFoundation framework to basically work with the sounds like:
+    - Recording the sounds
+    - Passing sound from one view controller to other etc.
+
 - Apps' insights:
   
   - Workflow: 
