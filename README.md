@@ -1,12 +1,12 @@
 # PitchPerfect-iOS
 
-- Description: It is a fun iOS application which transforms the voice recorded by the user to various characters like chipmunk, Darth Vader etc by changing the recorder voice's pitch and rate.
+- Description: It is a fun iOS mobile application which transforms the voice recorded by the user to various characters like chipmunk, Darth Vader etc by changing the recorder voice's pitch and rate.
 
 - Frameworks used:
   - UIKit
   - AVFoundation
 
-- Detailed description: 
+- Detailed description of the application: 
   - In this app we have added various functionalities like we are moving between the view controllers with the help of NAVIGATION CONTROLLER. 
   - And also we are using the AVFoundation framework to basically work with the sounds like:
     - Recording the sounds
